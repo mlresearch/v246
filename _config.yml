@@ -1,0 +1,81 @@
+---
+booktitle: Proceedings of The 12th International Conference on Probabilistic Graphical
+  Models
+shortname: PGM
+year: '2024'
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '246'
+start: &1 2024-09-11
+end: 2024-09-13
+published: 2024-09-05
+conference_number: '12'
+layout: proceedings
+issn: 2640-3498
+id: PGM2024
+month: 0
+cycles: false
+bibtex_editor: Kwisthout, Johan and Renooij, Silja
+editor:
+- given: Johan
+  family: Kwisthout
+- given: Silja
+  family: Renooij
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 12th International Conference on Probabilistic Graphical Models
+    Held in De Lindenberg, Nijmegen, the Netherlands on 11-13 September 2024
+
+  Published as Volume 246 by the Proceedings of Machine Learning Research on 05 September 2024.
+
+  Volume Edited by:
+    Johan Kwisthout
+    Silja Renooij
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 11--13 Sep
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v246"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v246
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v246
+email: ''
+conference:
+  name: International Conference on Probabilistic Graphical Models
+  url: https://www.ru.nl/pgm2024
+  location: De Lindenberg, Nijmegen, the Netherlands
+  dates:
+  - *1
+  - 2024-09-12
+  - 2024-09-13
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v246/pgm24.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v246/pgm24.bib
