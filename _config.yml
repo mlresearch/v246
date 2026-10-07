@@ -6,7 +6,7 @@ year: '2024'
 publisher: PMLR
 series: Proceedings of Machine Learning Research
 volume: '246'
-start: &1 2024-09-11
+start: 2024-09-11
 end: 2024-09-13
 published: 2024-09-05
 conference_number: '12'
@@ -70,7 +70,7 @@ conference:
   url: https://www.ru.nl/pgm2024
   location: De Lindenberg, Nijmegen, the Netherlands
   dates:
-  - *1
+  - 2024-09-11
   - 2024-09-12
   - 2024-09-13
 analytics:
